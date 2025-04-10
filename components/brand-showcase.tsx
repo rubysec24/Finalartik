@@ -66,19 +66,21 @@ const brands = [
 
 const BrandShowcase = () => {
   const [activeCarouselIndex, setActiveCarouselIndex] = useState(0)
-  const carouselRef = useRef(null)
+  const carouselRef = useRef<HTMLDivElement>(null)
 
-  const scrollCarousel = useCallback((direction) => {
+  const scrollCarousel = useCallback((direction: "left" | "right") => {
     if (carouselRef.current) {
       const scrollAmount = direction === "left" ? -carouselRef.current.offsetWidth : carouselRef.current.offsetWidth
       carouselRef.current.scrollBy({ left: scrollAmount, behavior: "smooth" })
 
       // Update active index
       setTimeout(() => {
-        const scrollLeft = carouselRef.current.scrollLeft
-        const itemWidth = carouselRef.current.offsetWidth
-        const newIndex = Math.round(scrollLeft / itemWidth)
-        setActiveCarouselIndex(Math.max(0, Math.min(newIndex, brands.length - 1)))
+        if (carouselRef.current) {
+          const scrollLeft = carouselRef.current.scrollLeft
+          const itemWidth = carouselRef.current.offsetWidth
+          const newIndex = Math.round(scrollLeft / itemWidth)
+          setActiveCarouselIndex(Math.max(0, Math.min(newIndex, brands.length - 1)))
+        }
       }, 500)
     }
   }, [])
