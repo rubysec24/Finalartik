@@ -1,0 +1,32 @@
+[
+  { 
+    "id": 1, 
+    "name": "İlkokul", 
+    "slug": "ilkokul", 
+    "description": "İlkokul seviyesi (1-4. sınıflar)" 
+  },
+  { 
+    "id": 2, 
+    "name": "Ortaokul", 
+    "slug": "ortaokul", 
+    "description": "Ortaokul seviyesi (5-8. sınıflar)" 
+  },
+  { 
+    "id": 3, 
+    "name": "Lise", 
+    "slug": "lise", 
+    "description": "Lise seviyesi (9-12. sınıflar)" 
+  },
+  { 
+    "id": 4, 
+    "name": "Üniversite", 
+    "slug": "universite", 
+    "description": "Üniversite seviyesi" 
+  },
+  { 
+    "id": 5, 
+    "name": "Yetişkin", 
+    "slug": "yetiskin", 
+    "description": "Yetişkin eğitimi ve kişisel gelişim" 
+  }
+] 

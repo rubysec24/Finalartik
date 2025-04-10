@@ -1,0 +1,50 @@
+[
+  { 
+    "id": 1, 
+    "name": "Ders Kitabı", 
+    "slug": "ders-kitabi", 
+    "description": "Okullarda kullanılan temel ders kitapları" 
+  },
+  { 
+    "id": 2, 
+    "name": "Kaynak Kitap", 
+    "slug": "kaynak-kitap", 
+    "description": "Ders içeriğini destekleyen yardımcı kaynaklar" 
+  },
+  { 
+    "id": 3, 
+    "name": "Çalışma Kitabı", 
+    "slug": "calisma-kitabi", 
+    "description": "Uygulamalı çalışma ve alıştırma kitapları" 
+  },
+  { 
+    "id": 4, 
+    "name": "Test Kitabı", 
+    "slug": "test-kitabi", 
+    "description": "Çoktan seçmeli testler içeren kitaplar" 
+  },
+  { 
+    "id": 5, 
+    "name": "Soru Bankası", 
+    "slug": "soru-bankasi", 
+    "description": "Kapsamlı soru koleksiyonları" 
+  },
+  { 
+    "id": 6, 
+    "name": "Eğitim Seti", 
+    "slug": "egitim-seti", 
+    "description": "Birden fazla kitap ve/veya materyal içeren eğitim setleri" 
+  },
+  { 
+    "id": 7, 
+    "name": "Etkinlik Kitabı", 
+    "slug": "etkinlik-kitabi", 
+    "description": "Öğrenmeyi eğlenceli hale getiren etkinlikler içeren kitaplar" 
+  },
+  { 
+    "id": 8, 
+    "name": "Yaprak Test", 
+    "slug": "yaprak-test", 
+    "description": "Konulara göre ayrılmış yaprak testler" 
+  }
+] 

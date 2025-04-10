@@ -1,0 +1,27 @@
+[
+  {
+    "name": "test",
+    "address": "test",
+    "phone": "123456789",
+    "email": "test@example.com",
+    "city": "Zonguldak",
+    "district": "Zonguldak",
+    "publications": [
+      "Fenomen Okul"
+    ],
+    "id": 1
+  },
+  {
+    "name": "Ankara",
+    "address": "ankara",
+    "phone": "123456789456",
+    "email": "aa@gmail.com",
+    "city": "Ankara",
+    "district": "Altındağ",
+    "publications": [
+      "Fenomen Okul",
+      "Fenomen Çocuk"
+    ],
+    "id": 2
+  }
+]

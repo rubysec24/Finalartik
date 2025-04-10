@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "5. Sınıf Matematik Ders Kitabı",
+    "description": "5. sınıflar için temel matematik ders kitabı",
+    "category": "Ders Kitabı",
+    "level": "Ortaokul",
+    "brand": "Fenomen",
+    "image": "/images/products/matematik5.jpg"
+  },
+  {
+    "id": 2,
+    "title": "İngilizce Kelime Kartları",
+    "description": "İngilizce kelime öğrenimini hızlandıran görsel kartlar",
+    "category": "Kaynak Kitap",
+    "level": "İlkokul",
+    "brand": "More&More",
+    "image": "/images/products/ingilizce-kartlar.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Türkçe Dil Bilgisi",
+    "description": "Türkçe dilbilgisi konularını kapsamlı anlatan kaynak kitap",
+    "category": "Kaynak Kitap",
+    "level": "Ortaokul",
+    "brand": "Kurmay",
+    "image": "/images/products/turkce-dilbilgisi.jpg"
+  },
+  {
+    "id": 4,
+    "title": "10. Sınıf Fizik Soru Bankası",
+    "description": "10. sınıf fizik konularını kapsayan soru bankası",
+    "category": "Soru Bankası",
+    "level": "Lise",
+    "brand": "Fenomen",
+    "image": "/images/products/fizik-soru.jpg"
+  },
+  {
+    "id": 5,
+    "title": "7. Sınıf İngilizce Çalışma Kitabı",
+    "description": "7. sınıflar için İngilizce alıştırma kitabı",
+    "category": "Çalışma Kitabı",
+    "level": "Ortaokul",
+    "brand": "More&More",
+    "image": "/images/products/ingilizce7.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Biyoloji Konu Anlatımlı Kitap",
+    "description": "Lise biyoloji konularını ayrıntılı anlatan kitap",
+    "category": "Kaynak Kitap",
+    "level": "Lise",
+    "brand": "Kurmay",
+    "image": "/images/products/biyoloji.jpg"
+  },
+  {
+    "id": 7,
+    "title": "İlkokul Okuma Seti",
+    "description": "İlkokul öğrencileri için geliştirilmiş hikaye seti",
+    "category": "Kaynak Kitap",
+    "level": "İlkokul",
+    "brand": "Orjin",
+    "image": "/images/products/okuma-seti.jpg"
+  },
+  {
+    "id": 8,
+    "title": "TYT Deneme Sınavları",
+    "description": "TYT sınavına hazırlık için deneme sınavları",
+    "category": "Test Kitabı",
+    "level": "Lise",
+    "brand": "KOZ",
+    "image": "/images/products/tyt-deneme.jpg"
+  },
+  {
+    "id": 9,
+    "title": "8. Sınıf Tüm Dersler Soru Bankası",
+    "description": "8. sınıf için tüm dersleri kapsayan soru bankası",
+    "category": "Soru Bankası",
+    "level": "Ortaokul",
+    "brand": "Fenomen",
+    "image": "/images/products/8sinif-soru.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Konuşma Pratiği Kitabı (İngilizce)",
+    "description": "İngilizce konuşma becerisini geliştirmek için pratik kitabı",
+    "category": "Çalışma Kitabı",
+    "level": "Ortaokul",
+    "brand": "More&More",
+    "image": "/images/products/konusma-pratik.jpg"
+  },
+  {
+    "id": 11,
+    "title": "LGS Matematik Soru Bankası",
+    "description": "LGS sınavı için hazırlanmış kapsamlı matematik soruları",
+    "category": "Soru Bankası",
+    "level": "Ortaokul",
+    "brand": "KOZ",
+    "image": "/images/products/lgs-matematik.jpg"
+  },
+  {
+    "id": 12,
+    "title": "1. Sınıf Okuma Yazma Seti",
+    "description": "İlkokul 1. sınıf öğrencileri için okuma yazma öğrenme seti",
+    "category": "Eğitim Seti",
+    "level": "İlkokul",
+    "brand": "Orjin",
+    "image": "/images/products/okuma-yazma.jpg"
+  },
+  {
+    "id": 13,
+    "title": "AYT Edebiyat Konu Özetli Soru Bankası",
+    "description": "AYT Türk Dili ve Edebiyatı için konu özetli soru bankası",
+    "category": "Soru Bankası",
+    "level": "Lise",
+    "brand": "Kurmay",
+    "image": "/images/products/ayt-edebiyat.jpg"
+  },
+  {
+    "id": 14,
+    "title": "İleri İngilizce Gramer Kitabı",
+    "description": "İleri seviye İngilizce dilbilgisi kitabı",
+    "category": "Kaynak Kitap",
+    "level": "Lise",
+    "brand": "More&More",
+    "image": "/images/products/ingilizce-gramer.jpg"
+  },
+  {
+    "id": 15,
+    "title": "6. Sınıf Fen Bilimleri Çalışma Kitabı",
+    "description": "6. sınıf fen bilimleri dersi için yardımcı çalışma kitabı",
+    "category": "Çalışma Kitabı",
+    "level": "Ortaokul",
+    "brand": "Fenomen",
+    "image": "/images/products/fen-calisma.jpg"
+  }
+] 

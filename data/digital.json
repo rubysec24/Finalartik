@@ -1,0 +1,16 @@
+[
+  {
+    "title": "test",
+    "description": "test",
+    "platforms": [
+      "Web"
+    ],
+    "features": [
+      "test"
+    ],
+    "category": "ai",
+    "rating": 3.3,
+    "image": "/uploads/6dd19284-c302-4ddf-b7af-0cc90657673b.png",
+    "id": 1
+  }
+]
