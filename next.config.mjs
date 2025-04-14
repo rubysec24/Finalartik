@@ -43,9 +43,6 @@ const nextConfig = {
     
     return config;
   },
-  output: 'standalone',
-  // Setting this to true disables static exports, which is better for pages using client-side features
-  staticPageGenerationTimeout: 120,
   distDir: '.next',
   trailingSlash: false,
 }
