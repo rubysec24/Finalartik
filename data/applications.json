@@ -1,0 +1,15 @@
+[
+  {
+    "title": "test",
+    "description": "test",
+    "platforms": [
+      "Windows"
+    ],
+    "appStoreUrl": "",
+    "playStoreUrl": "",
+    "features": [],
+    "category": "Eğitim",
+    "image": "/uploads/3d042fd8-5eca-4450-952f-4fb88161c87b.jpg",
+    "id": 1
+  }
+]

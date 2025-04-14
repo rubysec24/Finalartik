@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1,
+    "name": "Fenomen",
+    "slug": "fenomen",
+    "description": "Sınavlara hazırlık için kaliteli kaynak ve testler",
+    "longDescription": "Fenomen, eğitim alanında öncü çözümler sunan, yenilikçi yaklaşımlarıyla öğrencileri başarıya taşıyan bir yayınevidir. Sınav odaklı hazırlık setleri, kapsamlı konu anlatımları ve çeşitli alıştırmalarıyla öğrencilerin akademik gelişimini destekler.",
+    "logo": "/images/brands/fenomen.png",
+    "coverImage": "/images/brand-backgrounds/fenomen-background.jpg",
+    "color": "#1e40af",
+    "stats": [
+      {"label": "Deneyim", "value": "25+ Yıl"},
+      {"label": "Öğrenci", "value": "2M+"},
+      {"label": "Okul", "value": "1500+"},
+      {"label": "İçerik", "value": "500+"}
+    ],
+    "features": [
+      "Detaylı konu anlatımları",
+      "Kapsamlı soru bankaları",
+      "Deneme sınavları",
+      "Yaprak testler",
+      "TYT ve AYT hazırlık setleri"
+    ],
+    "digitalContent": [
+      {
+        "title": "Fenomen Dijital",
+        "description": "Tüm kitapların dijital içerikleri, video dersler ve interaktif uygulamalar",
+        "image": "/images/digital-content.jpg",
+        "platforms": ["Web", "iOS", "Android"]
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Ahmet Yılmaz",
+        "role": "Matematik Öğretmeni",
+        "image": "/images/avatar.jpg",
+        "text": "Fenomen'in soru bankaları, öğrencilerin analitik düşünme yeteneklerini geliştirmede çok başarılı."
+      },
+      {
+        "name": "Ayşe Kaya",
+        "role": "Veli",
+        "image": "/images/avatar.jpg",
+        "text": "Çocuğum, Fenomen kitaplarıyla çalışarak sınavlarda büyük başarı elde etti."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "More&More",
+    "slug": "moreandmore",
+    "description": "İngilizce dil eğitimi için yaratıcı çözümler",
+    "longDescription": "More&More, İngilizce dil eğitiminde uzmanlaşmış, yaratıcı ve etkili öğrenme materyalleri sunan bir yayınevidir. Her yaş ve seviyeye uygun ürünleriyle, öğrencilerin İngilizce öğrenme sürecini keyifli ve verimli hale getirir.",
+    "logo": "/images/brands/moreandmore.png",
+    "coverImage": "/images/brand-backgrounds/moreandmore-background.jpg",
+    "color": "#047857",
+    "stats": [
+      {"label": "Deneyim", "value": "15+ Yıl"},
+      {"label": "Öğrenci", "value": "1M+"},
+      {"label": "Okul", "value": "800+"},
+      {"label": "İçerik", "value": "300+"}
+    ],
+    "features": [
+      "Etkileşimli İngilizce kitapları",
+      "Görsel & işitsel öğrenme materyalleri",
+      "Dil becerilerini geliştiren oyunlar",
+      "Konuşma pratiği uygulamaları",
+      "Seviye belirleme testleri"
+    ],
+    "digitalContent": [
+      {
+        "title": "More&More English",
+        "description": "İngilizce konuşma ve yazma becerilerini geliştiren dijital platformlar",
+        "image": "/images/digital-content.jpg",
+        "platforms": ["Web", "iOS", "Android"]
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Mehmet Demir",
+        "role": "İngilizce Öğretmeni",
+        "image": "/images/avatar.jpg",
+        "text": "More&More'un görsel ve işitsel materyalleri, öğrencilerin dil öğrenme sürecini çok daha etkili hale getiriyor."
+      },
+      {
+        "name": "Zeynep Aydın",
+        "role": "Eğitim Koordinatörü",
+        "image": "/images/avatar.jpg",
+        "text": "İngilizce eğitiminde More&More ürünleri, öğrencilerimizin dil becerilerini hızla geliştirmelerini sağlıyor."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Kurmay",
+    "slug": "kurmay",
+    "description": "Modern eğitim yaklaşımları ve yenilikçi içerikler",
+    "longDescription": "Kurmay, modern eğitim yaklaşımlarıyla hazırlanmış yenilikçi içerikler sunan bir eğitim markasıdır. Teknoloji ve pedagojiyi bir araya getirerek, öğrencilerin 21. yüzyıl becerilerini geliştirmelerini destekler.",
+    "logo": "/images/brands/kurmay.png",
+    "coverImage": "/images/brand-backgrounds/kurmay-background.jpg",
+    "color": "#dc2626",
+    "stats": [
+      {"label": "Deneyim", "value": "30+ Yıl"},
+      {"label": "Öğrenci", "value": "3M+"},
+      {"label": "Okul", "value": "2000+"},
+      {"label": "İçerik", "value": "1000+"}
+    ],
+    "features": [
+      "Yapay zeka destekli öğrenme",
+      "Proje tabanlı öğrenme materyalleri",
+      "Disiplinlerarası içerikler",
+      "Robotik ve kodlama eğitim setleri",
+      "STEM eğitim kaynakları"
+    ],
+    "digitalContent": [
+      {
+        "title": "Kurmay Digital",
+        "description": "Sanal gerçeklik, artırılmış gerçeklik ve interaktif uygulamalar",
+        "image": "/images/digital-content.jpg",
+        "platforms": ["Web", "iOS", "Android", "VR"]
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Elif Yiğit",
+        "role": "Fen Bilimleri Öğretmeni",
+        "image": "/images/avatar.jpg",
+        "text": "Kurmay'ın STEM içerikleri, öğrencilerin bilimsel düşünme ve problem çözme becerilerini geliştiriyor."
+      },
+      {
+        "name": "Can Toprak",
+        "role": "Okul Müdürü",
+        "image": "/images/avatar.jpg",
+        "text": "Kurmay'ın yenilikçi yaklaşımı sayesinde okulumuzda teknoloji ile entegre bir eğitim sunabiliyoruz."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Orjin",
+    "slug": "orjin",
+    "description": "İlkokul ve ortaokul eğitiminde uzmanlaşmış içerikler",
+    "longDescription": "Orjin, ilkokul ve ortaokul eğitiminde uzmanlaşmış, öğrencilerin temel becerilerini geliştirmeye odaklanan bir yayınevidir. Eğlenceli ve etkileşimli içerikleriyle, küçük yaştaki öğrencilerin öğrenme serüvenlerini destekler.",
+    "logo": "/images/brands/orjin.png",
+    "coverImage": "/images/brand-backgrounds/orjin-background.jpg",
+    "color": "#7c3aed",
+    "stats": [
+      {"label": "Deneyim", "value": "20+ Yıl"},
+      {"label": "Öğrenci", "value": "1.5M+"},
+      {"label": "Okul", "value": "1200+"},
+      {"label": "İçerik", "value": "400+"}
+    ],
+    "features": [
+      "Çocuk gelişimine uygun içerikler",
+      "Eğlenceli öğrenme aktiviteleri",
+      "Temel becerileri geliştiren alıştırmalar",
+      "Okuma ve yazma setleri",
+      "Matematik ve fen etkinlikleri"
+    ],
+    "digitalContent": [
+      {
+        "title": "Orjin Kids",
+        "description": "Çocuklar için eğlenceli ve eğitici dijital oyunlar ve uygulamalar",
+        "image": "/images/digital-content.jpg",
+        "platforms": ["Web", "iOS", "Android"]
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Gül Aksoy",
+        "role": "Sınıf Öğretmeni",
+        "image": "/images/avatar.jpg",
+        "text": "Orjin'in ilkokul setleri, öğrencilerimin temel becerileri kazanmasında çok etkili oluyor."
+      },
+      {
+        "name": "Murat Öztürk",
+        "role": "Veli",
+        "image": "/images/avatar.jpg",
+        "text": "Çocuğumun Orjin kitaplarıyla çalışırken keyif aldığını görmek beni çok mutlu ediyor."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "KOZ",
+    "slug": "koz",
+    "description": "Sınavlara hazırlıkta uzmanlaşmış özel içerikler",
+    "longDescription": "KOZ, sınavlara hazırlıkta uzmanlaşmış özel içerikler sunan bir yayınevidir. Özellikle LGS ve YKS gibi ulusal sınavlara yönelik hazırlık materyalleriyle tanınır ve öğrencilerin hedeflerine ulaşmalarında stratejik bir rol oynar.",
+    "logo": "/images/brands/koz.png",
+    "coverImage": "/images/brand-backgrounds/koz-background.jpg",
+    "color": "#0369a1",
+    "stats": [
+      {"label": "Deneyim", "value": "10+ Yıl"},
+      {"label": "Öğrenci", "value": "500K+"},
+      {"label": "Okul", "value": "600+"},
+      {"label": "İçerik", "value": "200+"}
+    ],
+    "features": [
+      "Stratejik sınav hazırlık yöntemleri",
+      "Soru çözüm teknikleri",
+      "Hızlı öğrenme metotları",
+      "Yapay zeka destekli soru analizi",
+      "Zaman yönetimi becerileri"
+    ],
+    "digitalContent": [
+      {
+        "title": "KOZ Sınav",
+        "description": "Kişiselleştirilmiş sınav hazırlık programları ve performans analizi araçları",
+        "image": "/images/digital-content.jpg",
+        "platforms": ["Web", "iOS", "Android"]
+      }
+    ],
+    "testimonials": [
+      {
+        "name": "Deniz Şahin",
+        "role": "Matematik Öğretmeni",
+        "image": "/images/avatar.jpg",
+        "text": "KOZ'un sınav stratejileri ve zaman yönetimi teknikleri, öğrencilerimin sınavlarda başarılı olmalarını sağlıyor."
+      },
+      {
+        "name": "Selin Kaplan",
+        "role": "Öğrenci",
+        "image": "/images/avatar.jpg",
+        "text": "KOZ kitaplarıyla hazırlandım ve hedeflediğim üniversiteyi kazandım. Soru çözüm teknikleri gerçekten işe yarıyor."
+      }
+    ]
+  }
+] 
