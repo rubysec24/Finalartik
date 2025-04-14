@@ -4,10 +4,16 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "npm uninstall canvas || true",
     "build": "next build",
     "start": "next start",
     "start:standalone": "node .next/standalone/server.js",
     "lint": "next lint"
+  },
+  "pnpm": {
+    "overrides": {
+      "canvas": "npm:@napi-rs/canvas@latest"
+    }
   },
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
