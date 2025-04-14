@@ -43,6 +43,7 @@ const nextConfig = {
     
     return config;
   },
+  // We're not using standalone output to allow normal npm start to work
   distDir: '.next',
   trailingSlash: false,
 }

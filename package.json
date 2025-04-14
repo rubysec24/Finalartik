@@ -7,7 +7,6 @@
     "prebuild": "npm uninstall canvas || true",
     "build": "next build",
     "start": "next start",
-    "start:standalone": "node .next/standalone/server.js",
     "lint": "next lint"
   },
   "pnpm": {
